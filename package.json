@@ -9,9 +9,9 @@
   "author": "belma",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.20.0",
     "express": "^4.18.1"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bhadzic2/WeatherProject.git"
