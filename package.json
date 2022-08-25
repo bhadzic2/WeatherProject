@@ -10,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhadzic2/WeatherProject.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bhadzic2/WeatherProject/issues"
+  },
+  "homepage": "https://github.com/bhadzic2/WeatherProject#readme"
 }
